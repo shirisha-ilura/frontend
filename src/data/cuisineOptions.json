@@ -1,0 +1,12 @@
+[
+  { "id": "indian", "text": "Indian", "count": 374 },
+  { "id": "fast_food", "text": "Fast food", "count": 297 },
+  { "id": "arabic", "text": "Arabic", "count": 296 },
+  { "id": "grill", "text": "Grill", "count": 284 },
+  { "id": "breakfast", "text": "Breakfast", "count": 242 },
+  { "id": "desserts", "text": "Desserts", "count": 240 },
+  { "id": "asian", "text": "Asian", "count": 235 },
+  { "id": "healthy_food", "text": "Healthy food", "count": 232 },
+  { "id": "american", "text": "American", "count": 208 },
+  { "id": "sandwiches", "text": "Sandwiches", "count": 189 }
+] 

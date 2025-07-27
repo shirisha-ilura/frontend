@@ -1,0 +1,8 @@
+[
+  { "id": "popularity", "text": "Popularity" },
+  { "id": "fastest_delivery", "text": "Fastest delivery" },
+  { "id": "rating_high_to_low", "text": "Rating: high to low" },
+  { "id": "price_low_to_high", "text": "Price: low to high" },
+  { "id": "price_high_to_low", "text": "Price: high to low" },
+  { "id": "offers_high_to_low", "text": "Offers: high to low" }
+] 

@@ -1,0 +1,10 @@
+[
+  { "id": "sort", "text": "Sort By", "icon": "/images/img_frame_54.svg" },
+  { "id": "nearest", "text": "Nearest" },
+  { "id": "great_offers", "text": "Great Offers" },
+  { "id": "rating", "text": "Rating 4.0 +" },
+  { "id": "previous_bought", "text": "Previous bought" },
+  { "id": "cuisine", "text": "Cuisine", "icon": "/images/img_group_6356117.svg" },
+  { "id": "near_and_quick", "text": "Near and Quick", "icon": "/images/img_vector_295_stroke.svg" },
+  { "id": "rewards", "text": "Rewards", "icon": "/images/img_icon_amber_400.svg" }
+] 
