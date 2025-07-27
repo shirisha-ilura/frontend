@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#d97706">
+  <!-- Main scooter body -->
+  <path d="M7 12h4v2H7z" fill="#d97706"/>
+  <!-- Front wheel -->
+  <circle cx="5" cy="18" r="3" fill="none" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="5" cy="18" r="1" fill="#d97706"/>
+  <!-- Back wheel -->
+  <circle cx="19" cy="18" r="3" fill="none" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="19" cy="18" r="1" fill="#d97706"/>
+  <!-- Delivery box -->
+  <rect x="13" y="8" width="6" height="5" rx="1" fill="#d97706"/>
+  <!-- Handlebar -->
+  <path d="M5 12L6 8L8 10" stroke="#d97706" stroke-width="1.5" fill="none"/>
+  <!-- Seat -->
+  <rect x="9" y="10" width="3" height="1.5" rx="0.5" fill="#d97706"/>
+  <!-- Frame connections -->
+  <line x1="5" y1="15" x2="5" y2="18" stroke="#d97706" stroke-width="1"/>
+  <line x1="8" y1="13" x2="16" y2="15" stroke="#d97706" stroke-width="1"/>
+  <line x1="16" y1="13" x2="19" y2="15" stroke="#d97706" stroke-width="1"/>
+</svg>
